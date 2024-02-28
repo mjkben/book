@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Publication sur le Yoga
+    chapters:
+    - file: yoga/asana/asana
+    - file: yoga/index-th/index-th
+      sections:
+      - file: markdown-notebooks
+  - caption: Publication sur l'Ayurveda
+    chapters:
+    - file: notebooks
