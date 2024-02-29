@@ -92,6 +92,8 @@ paschimottanasana, hamsasana, mayurasana, dwi pada sirshasana.
 
 **Autre** : Yoga nidra, ajapa japa, antar mouna.
 
+::
+
 ## Anémie
 
 **Asana** : Surya namaskara, bhujangasana, shalabhasana, sarvangasana,
