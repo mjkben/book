@@ -21,6 +21,16 @@ que par ceux en convalescence ou présentant des conditions de maladie.
 Elle ne doit jamais être ignorée ou traitée avec désinvolture simplement
 parce que les pratiques sont simples, douces et confortables.
 
+::::{tab-set}
+
+:::{tab-item} Label1
+Content 1
+:::
+
+:::{tab-item} Label2
+Content 2
+
+
 ### Signification
 
 En sanskrit, ces pratiques sont appelées sukshma vyayama, signifiant
