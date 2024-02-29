@@ -1,4 +1,4 @@
-# Les Asana du Pawanmuktasana
+# Les Asanas du Pawanmuktasana
 
 ## Les séries Pawanmuktasana
 
@@ -58,9 +58,13 @@ grande valeur préventive et curative.
 
 ### Trois Groupes
 
-Pawanmuktasana est divisée en trois groupes distincts d\'asanas : le
-groupe anti-rhumatismal, le groupe digestif/abdominal et le groupe
-shakti bandha ou blocage énergétique. Les trois groupes se complètent,
+Pawanmuktasana est divisée en trois groupes distincts d\'asanas : 
+
+1. le groupe anti-rhumatismal, 
+2. le groupe digestif/abdominal 
+3. le groupe shakti bandha ou blocage énergétique. 
+
+Les trois groupes se complètent,
 stimulant et encourageant une libre circulation de l\'énergie à travers
 le corps. Il est conseillé aux pratiquants de maîtriser chaque groupe
 avant de tenter les asanas majeurs.
