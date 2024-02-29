@@ -9,13 +9,6 @@ d\'un thérapeute de yoga compétent et informé ou d\'un médecin avec qui
 elle peut discuter de sa symptomatologie. Cela est particulièrement vrai
 en présence de plusieurs maladies ou de conditions graves.
 
-::::{tab-set}
-
-
-
-
-:::{tab-item} A
-
 ## Abdomen : (tonification et renforcement généraux)
 
 **Asanas** :
@@ -56,10 +49,6 @@ travers le yoga nidra et la méditation.
 **Régime** : Éviter les aliments non végétariens, les produits laitiers
 et les aliments acides.
 
-
-
-:::{tab-item} B
-
 ## Glandes surrénales : (tonification générale)
 
 **Asanas** :
@@ -91,8 +80,6 @@ paschimottanasana, hamsasana, mayurasana, dwi pada sirshasana.
 **Shatkarma** : Neti, trataka.
 
 **Autre** : Yoga nidra, ajapa japa, antar mouna.
-
-::
 
 ## Anémie
 
