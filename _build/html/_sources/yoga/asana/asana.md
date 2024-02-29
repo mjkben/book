@@ -1,4 +1,4 @@
-# Les Asanas du Pawanmuktasana-bb
+# Les Asanas du Pawanmuktasana
 
 ## Les séries Pawanmuktasana
 
