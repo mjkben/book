@@ -91,6 +91,7 @@ paschimottanasana, hamsasana, mayurasana, dwi pada sirshasana.
 **Shatkarma** : Neti, trataka.
 
 **Autre** : Yoga nidra, ajapa japa, antar mouna.
+:::
 
 ## Anémie
 
