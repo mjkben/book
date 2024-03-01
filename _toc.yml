@@ -7,9 +7,9 @@ root: intro
 parts:
   - caption: Publication sur le Yoga
     chapters:
+    - file: yoga/asana/pawanmuktasana
     - file: yoga/index-th/index-th
       sections:
-      - file: yoga/asana/pawanmuktasana
   - caption: Publication sur l'Ayurveda
     chapters:
     - file: notebooks
