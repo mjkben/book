@@ -9,7 +9,4 @@ parts:
     chapters:
     - file: yoga/asana/pawanmuktasana
     - file: yoga/index-th/index-th
-      sections:
-  - caption: Publication sur l'Ayurveda
-    chapters:
-    - file: notebooks
+      
