@@ -7,10 +7,11 @@ root: intro
 parts:
   - caption: Publication sur le Yoga
     chapters:
+    - file: yoga/asana
     - file: yoga/index-th/index-th
-    - file: yoga/asana/pawanmuktasana
       sections:
-      - file: markdown-notebooks
+      - file: yoga/asana/introduction
+      - file: yoga/asana/pawanmuktasana
   - caption: Publication sur l'Ayurveda
     chapters:
     - file: notebooks
