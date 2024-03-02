@@ -18,6 +18,6 @@ parts:
     sections:
  #   - file: ayurveda/principe
  #   - file: ayurveda/regle
-    file: ayurveda/introduction
+ #   - file: ayurveda/introduction
     
   title: Change log
