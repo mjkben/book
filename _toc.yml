@@ -8,8 +8,8 @@ parts:
 - caption: Publication sur le Yoga
   chapters:
   - file: yoga/asana/introduction
-    sections:
-    - file: yoga/asana/pawanmuktasana
+#    sections:
+#    - file: yoga/asana/pawanmuktasana
   - file: yoga/index-th/index-th
 
 - caption: Publication sur l'Ayurveda
