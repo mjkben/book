@@ -16,7 +16,7 @@ parts:
   chapters:
   - file: ayurveda/introduction
     sections:
-    - file: ayurveda/principe
+ #   - file: ayurveda/principe
  #   - file: ayurveda/regle
     file: ayurveda/introduction
     
