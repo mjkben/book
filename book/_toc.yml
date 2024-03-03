@@ -1,0 +1,24 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+
+parts:
+- caption: Publication sur le Yoga
+  chapters:
+  - file: yoga/asana/introduction
+    sections:
+    - file: yoga/asana/pawanmuktasana
+  - file: yoga/index-th/index-th
+
+- caption: Publication sur l'Ayurveda
+  chapters:
+  - file: ayurveda/introduction
+ #   sections:
+ #   - file: ayurveda/principe
+ #   - file: ayurveda/regle
+ #   - file: ayurveda/introduction
+    
+  title: Change log
