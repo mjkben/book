@@ -50,3 +50,7 @@ Here's the second card.
 Here's the third card.
 :::
 ::::
+
+```{dropdown} Here's my dropdown
+And here's my dropdown content
+```
