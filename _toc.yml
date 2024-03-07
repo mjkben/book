@@ -5,14 +5,19 @@ format: jb-book
 root: intro
 
 parts:
-- caption: Publication sur le Yoga
+- caption: Modele
+  chapters:
+  - file: modele/modeleexemple
+
+- caption: Yoga - Les Asanas
   chapters:
   - file: yoga/liminaire
   - file: yoga/asana/introduction
-  - file: yoga/asana/pawanmuktasana
+  - file: yoga/asana/les-asanas-du-pawanmuktasana
+  - file: yoga/asana/les-asanas-de-relaxation
   - file: yoga/index-th/index-th
 
-- caption: Publication sur l'Ayurveda
+- caption: Yoga - Le pranayama
   chapters:
   - file: ayurveda/introduction
   title: Change log

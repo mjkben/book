@@ -1,72 +1,23 @@
 # Introduction
 
-## secopndo
+## Les origines
 
-````{tab-set}
-```{tab-item} Tab 1 title
-My first tab
-```
+Dans le yoga, lorsqu’on commence à évoquer les postures, elles sont généralement composées en deux ou trois mots et,
+portent souvent le nom de fleurs, de pierres et d’animaux et reflètent leurs mouvements.
 
-```{tab-item} Tab 2 title
-My second tab with `some code`!
-```
-````
+Les rishis (les sages, ascètes du pré-védique) ont constaté que les animaux vivaient en harmonie avec leurs environnements et
+leur corps.
 
-::::{grid}
-:gutter: 2
+Ils ont compris par expérience les effets de certaines postures et comment les sécrétions hormonales peuvent être stimulées et
+contrôlées par elles.
 
-:::{grid-item}
-:outline:
-A
-:::
-:::{grid-item}
-:outline:
-B
-:::
-:::{grid-item}
-:outline:
-C
-:::
-:::{grid-item}
-:outline:
-D
+Par exemple, en imitant le lapin ou le lièvre dans shashankasana, ils ont remarqué qu’ils pouvaient influencer le flux
+d'adrénaline responsable du mécanisme de «combat ou de fuite».
+
+À travers les nombreuses postures d'animaux, les rishis ont découvert qu’ils pouvaient se maintenir en bonne santé et relever
+les défis de la nature pour l’humanité.
+
+:::{info}
+Voilà pourquoi il y a autant de postures de yoga que d’animaux sur terre.
 :::
 
-::::
-
-
-::::{grid}
-:gutter: 3
-
-:::{grid-item-card} One!
-Here's the first card.
-:::
-
-:::{grid-item-card} Two!
-Here's the second card.
-:::
-
-:::{grid-item-card} Three!
-Here's the third card.
-:::
-::::
-
-```{dropdown} Here's my dropdown
-And here's my dropdown content
-```
-
-
-```{note}
-:class: dropdown
-The note body will be hidden!
-```
-
-````{tab-set}
-```{tab-item} Tab 1 title
-My first tab
-```
-
-```{tab-item} Tab 2 title
-My second tab with `some code`!
-```
-````
