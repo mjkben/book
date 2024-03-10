@@ -4,20 +4,23 @@
 format: jb-book
 root: intro
 
-parts:
+parts: 
+- caption: Liminaire
+  chapters:
+  - file: yoga/remerciements  
+  - file: yoga/liminaire
+
+
+- caption: Mes publications de yoga
+  chapters:
+  - file: yoga/intro/comprendre
+  - file: yoga/asana/asana
+  - file: yoga/pranayama/pranayama
+  - file: yoga/mudras/mudras
+  - file: yoga/bandhas/bandhas
+  - file: yoga/shatkarmas/shatkarmas
+  - file: yoga/index-th/index-th
+
 - caption: Modele
   chapters:
   - file: modele/modeleexemple
-
-- caption: Yoga - Les Asanas
-  chapters:
-  - file: yoga/liminaire
-  - file: yoga/asana/introduction
-  - file: yoga/asana/les-asanas-du-pawanmuktasana
-  - file: yoga/asana/les-asanas-de-relaxation
-  - file: yoga/index-th/index-th
-
-- caption: Yoga - Le pranayama
-  chapters:
-  - file: ayurveda/introduction
-  title: Change log

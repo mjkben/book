@@ -5,24 +5,41 @@
 
 #######################################################################################
 # Book settings
+
 title                       : Yoga & Ayurveda Sagar  # The title of the book. Will be placed in the left navbar.
+description: Cette section du site est consacrée à mes écrits sur le yoga et l'ayurveda.
+
+# baseurl: "/mon-projet" # le sous-dossier relatif à votre site, si nécessaire
+# url: "https://www.example.com" # l'URL de votre site
+
 author                      : Marie-jacques BENARD  # The author of the book
 copyright                   : "2024"  # Copyright year to be placed in the footer
-logo                        : logo.png  # A path to the book logo
+logo                        : logo-yoga.png  # A path to the book logo
+
+# Prise en charge multilingue
+languages: ["en", "fr"]
+default_lang: "fr"
+lang_relative_urls: true
+
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
   execute_notebooks: force
 
-# Define the name of the latex output file for PDF builds
-latex:
-  latex_documents:
-    targetname: book.tex
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
   - references.bib
+
+#######################################################################################
+# Launch button settings
+launch_buttons:
+  notebook_interface        : classic  # The interface interactive links will activate ["classic", "jupyterlab"]
+  binderhub_url             : ""  # The URL of the BinderHub (e.g., https://mybinder.org)
+  jupyterhub_url            : ""  # The URL of the JupyterHub (e.g., https://datahub.berkeley.edu)
+  thebe                     : false  # Add a thebe button to pages (requires the repository to run on Binder)
+  colab_url                 : "" # The URL of Google Colab (https://colab.research.google.com)
 
 # Information about where the book exists on the web
 repository:
@@ -30,8 +47,43 @@ repository:
   path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
+#######################################################################################
+# HTML-specific settings
+html:
+  favicon                   : ""  # A path to a favicon image
+  use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
-html:
-  use_issues_button: true
-  use_repository_button: true
+  use_repository_button     : true  # Whether to add a link to your repository button
+  use_issues_button         : true  # Whether to add an "open an issue" button
+  use_multitoc_numbering    : true   # Continuous numbering across parts/chapters
+  extra_footer              : ""  # Will be displayed underneath the footer.
+  google_analytics_id       : ""  # A GA id that can be used to track book views.
+  home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
+  baseurl                   : ""  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  analytics:
+
+  comments:
+    hypothesis              : true
+    utterances              : false
+  announcement              : "Cette section du site est consacrée à mes écrits sur le Yoga et l'Ayurveda." # A banner announcement at the top of the site.
+
+#######################################################################################
+# LaTeX-specific settings
+latex:
+  latex_engine              : pdflatex  # one of 'pdflatex', 'xelatex' (recommended for unicode), 'luatex', 'platex', 'uplatex'
+  use_jupyterbook_latex     : true # use sphinx-jupyterbook-latex for pdf builds as default
+  # Define the name of the latex output file for PDF builds
+  latex_documents:
+    targetname: book.tex
+
+#######################################################################################
+# Advanced and power-user settings
+sphinx:
+  extra_extensions          :   # A list of extra extensions to load by Sphinx (added to those already used by JB).
+  local_extensions          :   # A list of local extensions to load by sphinx specified by "name: path" items
+  recursive_update          : false # A boolean indicating whether to overwrite the Sphinx config (true) or recursively update (false)
+  config                    :   # key-value pairs to directly over-ride the Sphinx configuration
+
+parse_with_myst: true
+exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
