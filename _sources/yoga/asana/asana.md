@@ -1,6 +1,107 @@
-# Les Asanas du Pawanmuktasana
+# §2. La science des postures
 
-## Les séries Pawanmuktasana
+## Les origines
+
+Dans le yoga, lorsqu’on commence à évoquer les postures, elles sont généralement composées en deux ou trois mots et,
+portent souvent le nom de fleurs, de pierres et d’animaux et reflètent leurs mouvements.
+
+Les rishis (les sages, ascètes du pré-védique) ont constaté que les animaux vivaient en harmonie avec leurs environnements et
+leur corps.
+
+Ils ont compris par expérience les effets de certaines postures et comment les sécrétions hormonales peuvent être stimulées et
+contrôlées par elles.
+
+Par exemple, en imitant le lapin ou le lièvre dans shashankasana, ils ont remarqué qu’ils pouvaient influencer le flux
+d'adrénaline responsable du mécanisme de «combat ou de fuite».
+
+À travers les nombreuses postures d'animaux, les rishis ont découvert qu’ils pouvaient se maintenir en bonne santé et relever
+les défis de la nature pour l’humanité.
+
+
+:::{note}
+Voilà pourquoi il y a autant de postures de yoga que d’animaux sur terre.
+:::
+
+## Les Asanas de relaxation
+
+### Shavasana
+
+````{tab-set}
+
+```{tab-item} Posture
+
+```{figure} ./images/img-shavasana.jpg
+---
+height: 150px
+name: directive-fig
+---
+Shavasana : Pose du cadavre
+```
+
+```{tab-item} Pratique
+    - Allongez-vous à plat sur le dos avec les bras le long du corps, les paumes tournées vers le haut. 
+    - Un oreiller mince ou plié sous la tête.
+    - Laissez les doigts se recroqueviller légèrement.
+    - Gardez vos pieds légèrement écartés dans une position confortable et fermez les yeux.
+    - La tête et la colonne vertébrale doivent être alignées.
+    - Assurez-vous que la tête ne tombe pas d'un côté ou de l'autre.
+    - Détendez tout le corps et arrêtez tout mouvement physique.
+    - Prendre conscience du souffle naturel, permettez lui de devenir rythmé et détendu.
+    - Commencez à compter les respirations à l’envers de la 27ème jusqu'à 0. 
+    - Si l'esprit vagabonde et que le prochain chiffre est oublié, recommencez depuis la 27ème, progressivement le corps va se détendre.
+```
+
+```{tab-item} Durée
+Selon le temps disponible. Les avantages de cet asana sont
+acquis même si vous ne le pratiquez qu’une minute ou deux
+entre chaque asana.
+```
+
+```{tab-item} Conscience
+Physique - d'abord pour détendre le corps entier, puis
+sur le souffle et le comptage respiratoire.
+Spirituel - sur ajna chakra.
+```
+
+```{tab-item} Avantages
+Cet asana détend l'ensemble du système
+psycho-physiologique. Il devrait idéalement être pratiqué
+avant de dormir, avant, pendant et après la pratique des
+asanas, en particulier après des exercices tels que surya
+namaskara ; ou quand la pratique fatique physiquement ou
+mentalement. Il développe la conscience du corps.
+Quand le corps est complètement détendu, la conscience
+de l'esprit augment et développe le pratyahara.
+```
+
+```{tab-item} Remarques
+Essayez de ne pas bouger le corps pendant la
+pratique car le moindre mouvement créera une contraction
+musculaire.
+Un mantra personnel (une ou plusieurs syllabes vibratoires)
+peut être répété à chaque inspiration et expiration.
+Variante :
+En étant couché dans shavasana, prenez conscience de la
+main droite détendue. Prenez conscience du poignet droit, du
+coude, des aisselles, de la taille, de la fesse droite, cuisse
+droite, du genou droit, mollet, talon, plante du pied et
+relâchez-les un à un. Répétez ce processus avec le côté gauche
+du corps et toutes les parties de la tête et du tronc.
+Assurez-vous que chaque partie du corps est détendue, sentez
+chaque partie se fondant dans le sol. Répétez ce processus à
+plusieurs reprises et toutes les tensions auront disparu.
+
+:::{note}
+Cette technique devrait être réalisée après une dure journée
+de travail ou juste avant de dormir.
+:::
+
+```
+
+````
+
+
+## Les Asanas du Pawanmuktasana
 
 ### Introduction
 
@@ -40,7 +141,7 @@ et empêche la formation de nouveaux. De cette manière, elle favorise la
 santé totale, régulant et stabilisant le flux d\'énergie à travers le
 corps.
 
-### Aspect Corps-Esprit
+### Aspect corps-esprit
 
 La plupart des maladies modernes sont de nature psychosomatique. Le
 traitement médicamenteux de ces maux est seulement symptomatique et ne
@@ -56,7 +157,7 @@ l\'esprit, accordent les nerfs autonomes, les fonctions hormonales et
 les activités des organes internes. Par conséquent, ces asanas ont une
 grande valeur préventive et curative.
 
-### Trois Groupes
+### LEs trois groupes
 
 Pawanmuktasana est divisée en trois groupes distincts d\'asanas : 
 
