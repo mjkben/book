@@ -77,10 +77,48 @@ Here's the third card.
 And here's my dropdown content
 ```
 
+```{hint}
+:class: dropdown
+The note body will be hidden!
+```
+
+```{seealso}
+:class: dropdown
+The note body will be hidden!
+```
 
 ```{note}
 :class: dropdown
 The note body will be hidden!
+```
+
+```{tip}
+:class: dropdown
+The note body will be hidden!
+```
+```{warning}
+:class: dropdown
+The note body will be hidden!
+```
+
+```{important}
+:class: dropdown
+The note body will be hidden!
+```
+
+```{error}
+:class: dropdown
+The note body will be hidden!
+```
+
+```{danger}
+:class: dropdown
+The note body will be hidden!
+```
+
+```{admonition} Mon titre
+:class: note
+mon texte perso
 ```
 
 ````{tab-set}
@@ -92,3 +130,8 @@ My first tab
 My second tab with `some code`!
 ```
 ````
+
+
+```{admonition} Extra credit
+An "extra credit" exercise is presented here.
+```
