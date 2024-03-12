@@ -3,23 +3,26 @@
 
 format: jb-book
 root: intro
+defaults:  # The defaults key will be applied to all chapters and sub-sections
+  titlesonly: true
 
 parts: 
 - caption: Liminaire
   chapters:
-  - file: yoga/remerciements  
-  - file: yoga/liminaire
+  - file: data/yoga/remerciements  
+  - file: data/yoga/liminaire
 
 
 - caption: Mes publications de yoga
+  
   chapters:
-  - file: yoga/intro/comprendre
-  - file: yoga/asana/asana
-  - file: yoga/pranayama/pranayama
-  - file: yoga/mudras/mudras
-  - file: yoga/bandhas/bandhas
-  - file: yoga/shatkarmas/shatkarmas
-  - file: yoga/index-th/index-th
+  - file: data/yoga/intro/comprendre
+  - file: data/yoga/asana/asana
+  - file: data/yoga/pranayama/pranayama
+  - file: data/yoga/mudras/mudras
+  - file: data/yoga/bandhas/bandhas
+  - file: data/yoga/shatkarmas/shatkarmas
+  - file: data/yoga/index-th/index-th
 
 - caption: Modele
   chapters:

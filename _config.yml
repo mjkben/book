@@ -10,7 +10,7 @@ description: Cette section du site est consacrée à mes écrits sur le yoga et 
 #author                      : Marie-jacques BENARD  # The author of the book
 author                      : ""
 copyright                   : "2024"                # Copyright year to be placed in the footer
-logo                        : logo-yoga.png         # A path to the book logo
+logo                        : logo-yogabook.png         # A path to the book logo
 
 # Prise en charge multilingue
 languages: ["en", "fr"]
@@ -26,7 +26,7 @@ execute:
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
-  - references.bib
+  - bibliography/references.bib
 
 #######################################################################################
 # Launch button settings
@@ -87,23 +87,13 @@ latex:
 #######################################################################################
 # Advanced and power-user settings
 sphinx:
-  extra_extensions          :   # A list of extra extensions to load by Sphinx (added to those already used by JB).
-  local_extensions          :   # A list of local extensions to load by sphinx specified by "name: path" items
-  recursive_update          : false # A boolean indicating whether to overwrite the Sphinx config (true) or recursively update (false)
-  config                    :   # key-value pairs to directly over-ride the Sphinx configuration
-    language: fr                # passe l'IHM en francais
+  extra_extensions    :       # A list of extra extensions to load by Sphinx (added to those already used by JB).
+  local_extensions    :       # A list of local extensions to load by sphinx specified by "name: path" items
+  recursive_update    : false # A boolean indicating whether to overwrite the Sphinx config (true) or recursively update (false)
+  config              :       # key-value pairs to directly over-ride the Sphinx configuration
+    language          : fr    # passe l'IHM en francais
 parse_with_myst: true
-exclude_patterns            : 
-  [_build, 
-    Thumbs.db, 
-    .DS_Store, 
-    "**.ipynb_checkpoints",
-    "CONTRIBUTING.md",
-    "README.md","content.md",
-    "markdown.md",
-    "CONDUCT.md",
-    "markdown-notebooks.md",
-    "notebooks.ipynb"]
+# exclude_patterns    :   [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", "CONTRIBUTING.md","README.md","content.md", "markdown.md", "CONDUCT.md", "markdown-notebooks.md", "notebooks.ipynb"]
 
 html_show_copyright: false
 myst_amsmath_enable: true
@@ -122,3 +112,16 @@ parse:
     - tasklist
   myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
   myst_dmath_double_inline: true          # Allow display math ($$) within an inline context
+
+# Jupyter settings
+
+only_build_toc_files: true
+
+#######################################################################################
+# Jupyter book settings you probably don't need to change
+
+content_folder_name       : "content"  # The folder where your raw content (notebooks/markdown files) are located
+images_url                : "/assets/images" # Path to static image files
+css_url                   : "/assets/css" # Path to static CSS files
+js_url                    : "/assets/js" # Path to JS files
+custom_static_url         : "/assets/custom" # Path to user's custom CSS/JS files
